@@ -22,7 +22,24 @@ Unfortunately, I got a TLE on the platform by brute-force.
 
 3.Modified BIT algorithm can be accepted in this question
 
+​	Binary Indexed Tree -- Fenwick Tree
+
+​	time complexity O(nlogn)
+
+4.Merge-Sort
+
+​	Merge + count
+
+​	time complexity O(nlogn)
+
 
 
 ## Best Solution for C++
 
+Modified BIT algorithm
+
+Merge-Sort
+
+## Question
+
+BIT algorithm is hard to comprehend(not mentioned in DSAA class), but I know the reason why BIT can AC while BST cannot.
