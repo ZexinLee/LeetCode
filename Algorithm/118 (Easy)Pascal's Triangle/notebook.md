@@ -1,6 +1,6 @@
 # Brute-Force
 
-Very straight forward
+Very straight forward dynamic programming(DP)
 
 a(i)(j) = a(i - 1)(j - 1) + a(i - 1)(j)
 
