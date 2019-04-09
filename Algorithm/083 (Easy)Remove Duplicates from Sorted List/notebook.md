@@ -1,0 +1,3 @@
+# Linklist
+
+Attention: avoid NULL
