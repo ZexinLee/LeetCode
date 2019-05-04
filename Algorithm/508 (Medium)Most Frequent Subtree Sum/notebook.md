@@ -8,3 +8,5 @@ Runtime: 28 ms, faster than 96.70% of C++ online submissions for Most Frequent S
 
 Memory Usage: 24.3 MB, less than 34.28% of C++ online submissions for Most Frequent Subtree Sum.
 
+![https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/508%20(Medium)Most%20Frequent%20Subtree%20Sum/bug-pic.png](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/508 (Medium)Most Frequent Subtree Sum/bug-pic.png)
+
