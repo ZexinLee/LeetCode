@@ -19,7 +19,12 @@ All code in Database Part is written by SQL
 
 2019.7.22 
 
-Use Java to write part of code
+​	Use Java to write part of code
 
-[![Travis](https://img.shields.io/badge/language-java-yellow.svg)](https://developer.apple.com/)
+​	[![Travis](https://img.shields.io/badge/language-java-yellow.svg)](https://developer.apple.com/)
 
+2019.8.1
+
+​	Thanks for the inspiration from @[Wanchunwei](https://github.com/Wanchunwei), the note for each question should contain more details.
+
+​	The note template has been generated and stored in the template folder.
