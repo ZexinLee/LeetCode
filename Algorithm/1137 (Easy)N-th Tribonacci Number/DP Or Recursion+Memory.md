@@ -1,6 +1,6 @@
 # Algorithm
 
-[Algorithm picture](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1137 (Easy)N-th Tribonacci Number/Algorithm for 1137.png)
+[Algorithm picture](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1137%20(Easy)N-th%20Tribonacci%20Number/Algorithm%20for%201137.png)
 
 # Better Solution
 
