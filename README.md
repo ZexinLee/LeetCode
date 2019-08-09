@@ -28,3 +28,7 @@ All code in Database Part is written by SQL
 ​	Thanks for the inspiration from @[Wanchunwei](https://github.com/Wanchunwei), the note for each question should contain more details.
 
 ​	The note template has been generated and stored in the template folder.
+
+2019.8.9
+
+​	Begin to add notes for earlier completed questions.
