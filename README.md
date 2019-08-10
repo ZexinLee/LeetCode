@@ -32,7 +32,7 @@ All code in Database Part is written by SQL.![Travis](https://img.shields.io/bad
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|Two Sum|44.4%|Easy|
+|1|[Two Sum](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0001%20(Easy)Two%20Sum/Note%20Template.md)|44.4%|Easy|
 |2|Add Two Numbers|31.5%|Medium|
 |3|Longest Substring Without Repeating Characters|28.7%|Medium|
 |4|Median of Two Sorted Arrays|27.0%|Hard|
