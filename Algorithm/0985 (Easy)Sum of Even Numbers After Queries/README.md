@@ -13,4 +13,5 @@ even -> even
 
 Runtime: 172 ms, faster than 30.60% of C++ online submissions for Sum of Even Numbers After Queries.
 
-Memory Usage: 32.8 MB, less than 26.31% of C++ online submissions for Sum of Even Numbers After Queries.
+Memory Usage: 32.8 MB, less than 26.31% of C++ online submissions for Sum of Even Numbers After Queries. 
+

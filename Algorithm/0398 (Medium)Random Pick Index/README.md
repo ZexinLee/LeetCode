@@ -24,4 +24,4 @@ Static class+shudown I/O sync
 
 Runtime: 40 ms, faster than 99.50% of C++ online submissions for Random Pick Index.
 
-Memory Usage: 18 MB, less than 100.00% of C++ online submissions for Random Pick Index.
+Memory Usage: 18 MB, less than 100.00% of C++ online submissions for Random Pick Index. 
