@@ -40,7 +40,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |6|ZigZag Conversion|32.8%|Medium|
 |7|Reverse Integer|25.4%|Easy|
 |8|String to Integer (atoi)|14.7%|Medium|
-|9|Palindrome Number|44.3%|Easy|
+|9|[Palindrome Number](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0009%20(Easy)Palindrome%20Number/Stack.md)|44.3%|Easy|
 |10|Regular Expression Matching|25.5%|Hard|
 |11|Container With Most Water|45.9%|Medium|
 |12|Integer to Roman|51.7%|Medium|
@@ -376,7 +376,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |342|Power of Four|40.6%|Easy|
 |343|Integer Break|48.3%|Medium|
 |344|Reverse String|63.8%|Easy|
-|345|Reverse Vowels of a String|42.0%|Easy|
+|345|[Reverse Vowels of a String](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0345%20(Easy)Reverse%20Vowels%20of%20a%20String/Reverse%20String.md)|42.0%|Easy|
 |346|Moving Average from Data Stream|66.9%|Easy|
 |347|Top K Frequent Elements|56.0%|Medium|
 |348|Design Tic-Tac-Toe|50.4%|Medium|
@@ -443,7 +443,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |409|Longest Palindrome|48.4%|Easy|
 |410|Split Array Largest Sum|42.7%|Hard|
 |411|Minimum Unique Word Abbreviation|35.2%|Hard|
-|412|Fizz Buzz|59.9%|Easy|
+|412|[Fizz Buzz](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0412%20(Easy)Fizz%20Buzz/Mod.md)|59.9%|Easy|
 |413|Arithmetic Slices|56.2%|Medium|
 |414|Third Maximum Number|29.3%|Easy|
 |415|Add Strings|44.2%|Easy|
@@ -507,7 +507,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |473|Matchsticks to Square|36.3%|Medium|
 |474|Ones and Zeroes|40.2%|Medium|
 |475|Heaters|32.1%|Easy|
-|476|Number Complement|62.6%|Easy|
+|476|[Number Complement](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0476%20(Easy)Number%20Complement/Recursion.md)|62.6%|Easy|
 |477|Total Hamming Distance|49.3%|Medium|
 |478|Generate Random Point in a Circle|37.3%|Medium|
 |479|Largest Palindrome Product|27.7%|Hard|
@@ -597,7 +597,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |563|Binary Tree Tilt|47.2%|Easy|
 |564|Find the Closest Palindrome|18.9%|Hard|
 |565|Array Nesting|53.2%|Medium|
-|566|Reshape the Matrix|59.2%|Easy|
+|566|[Reshape the Matrix](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0566%20(Easy)Reshape%20the%20Matrix/Store.md)|59.2%|Easy|
 |567|Permutation in String|38.8%|Medium|
 |568|Maximum Vacation Days|38.5%|Hard|
 |569|Median Employee Salary|48.9%|Hard|
@@ -700,7 +700,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |666|Path Sum IV|52.9%|Medium|
 |667|Beautiful Arrangement II|52.4%|Medium|
 |668|Kth Smallest Number in Multiplication Table|42.6%|Hard|
-|669|Trim a Binary Search Tree|60.7%|Easy|
+|669|[Trim a Binary Search Tree](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0669%20(Easy)Trim%20a%20Binary%20Search%20Tree/Recursion.md)|60.7%|Easy|
 |670|Maximum Swap|40.2%|Medium|
 |671|Second Minimum Node In a Binary Tree|43.2%|Easy|
 |672|Bulb Switcher II|50.3%|Medium|
@@ -898,7 +898,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |864|Shortest Path to Get All Keys|36.9%|Hard|
 |865|Smallest Subtree with all the Deepest Nodes|56.9%|Medium|
 |866|Prime Palindrome|20.3%|Medium|
-|867|Transpose Matrix|64.0%|Easy|
+|867|[Transpose Matrix](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0867%20(Easy)Transpose%20Matrix/Transpose.md)|64.0%|Easy|
 |868|Binary Gap|59.7%|Easy|
 |869|Reordered Power of 2|51.3%|Medium|
 |870|Advantage Shuffle|43.1%|Medium|
@@ -914,7 +914,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |880|Decoded String at Index|23.2%|Medium|
 |881|Boats to Save People|44.3%|Medium|
 |882|Reachable Nodes In Subdivided Graph|38.5%|Hard|
-|883|Projection Area of 3D Shapes|66.0%|Easy|
+|883|[Projection Area of 3D Shapes](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0883%20(Easy)Projection%20Area%20of%203D%20Shapes/Array%20Traverse.md)|66.0%|Easy|
 |884|Uncommon Words from Two Sentences|61.2%|Easy|
 |885|Spiral Matrix III|65.2%|Medium|
 |886|Possible Bipartition|41.2%|Medium|
@@ -1061,7 +1061,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1027|Longest Arithmetic Sequence|49.3%|Medium|
 |1028|Recover a Tree From Preorder Traversal|69.7%|Hard|
 |1029|Two City Scheduling|54.3%|Easy|
-|1030|Matrix Cells in Distance Order|64.2%|Easy|
+|1030|[Matrix Cells in Distance Order](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1030%20(Easy)Matrix%20Cells%20in%20Distance%20Order/Sort%20Or%20Heap.md)|64.2%|Easy|
 |1031|Maximum Sum of Two Non-Overlapping Subarrays|55.0%|Medium|
 |1032|Stream of Characters|42.2%|Hard|
 |1033|Moving Stones Until Consecutive|37.1%|Easy|
@@ -1077,8 +1077,8 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1043|Partition Array for Maximum Sum|62.7%|Medium|
 |1044|Longest Duplicate Substring|22.8%|Hard|
 |1045|Customers Who Bought All Products|65.9%|Medium|
-|1046|Last Stone Weight|62.1%|Easy|
-|1047|Remove All Adjacent Duplicates In String|63.7%|Easy|
+|1046|[Last Stone Weight](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1046%20(Easy)Last%20Stone%20Weight/Heap.md)|62.1%|Easy|
+|1047|[Remove All Adjacent Duplicates In String](https://github.com/ZexinLee/LeetCode/tree/master/Algorithm/1047%20(Easy)Remove%20All%20Adjacent%20Duplicates%20In%20String)|63.7%|Easy|
 |1048|Longest String Chain|48.6%|Medium|
 |1049|Last Stone Weight II|40.0%|Medium|
 |1050|Actors and Directors Who Cooperated At Least Three Times|72.5%|Easy|
@@ -1120,7 +1120,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1086|High Five|74.6%|Easy|
 |1087|Brace Expansion|59.1%|Medium|
 |1088|Confusing Number II|36.0%|Hard|
-|1089|Duplicate Zeros|59.1%|Easy|
+|1089|[Duplicate Zeros](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1089%20(Easy)Duplicate%20Zeros/Array%20Operation.md)|59.1%|Easy|
 |1090|Largest Values From Labels|57.3%|Medium|
 |1091|Shortest Path in Binary Matrix|36.3%|Medium|
 |1092|Shortest Common Supersequence|48.2%|Hard|
