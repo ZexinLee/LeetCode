@@ -34,8 +34,8 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0001%20(Easy)Two%20Sum/Note%20Template.md)|44.4%|Easy|
 |2|[Add Two Numbers](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0002%20(Medium)Add%20Two%20Numbers/Adder.md)|31.5%|Medium|
-|3|Longest Substring Without Repeating Characters|28.7%|Medium|
-|4|Median of Two Sorted Arrays|27.0%|Hard|
+|3|[Longest Substring Without Repeating Characters](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0003%20(Medium)Longest%20Substring%20Without%20Repeating%20Characters/Greedy.md)|28.7%|Medium|
+|4|[Median of Two Sorted Arrays](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0004%20(Hard)Median%20of%20Two%20Sorted%20Arrays/DivdeandConqure%26BinarySearch.md)|27.0%|Hard|
 |5|Longest Palindromic Substring|27.7%|Medium|
 |6|ZigZag Conversion|32.8%|Medium|
 |7|Reverse Integer|25.4%|Easy|
