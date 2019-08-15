@@ -38,8 +38,8 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |4|[Median of Two Sorted Arrays](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0004%20(Hard)Median%20of%20Two%20Sorted%20Arrays/DivdeandConqure%26BinarySearch.md)|27.0%|Hard|
 |5|Longest Palindromic Substring|27.7%|Medium|
 |6|ZigZag Conversion|32.8%|Medium|
-|7|Reverse Integer|25.4%|Easy|
-|8|String to Integer (atoi)|14.7%|Medium|
+|7|[Reverse Integer](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0007%20(Easy)Reverse%20Integer/Recursion.md)|25.4%|Easy|
+|8|[String to Integer (atoi)](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0008%20(Medium)String%20to%20Integer/atoi.md)|14.7%|Medium|
 |9|[Palindrome Number](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0009%20(Easy)Palindrome%20Number/Stack.md)|44.3%|Easy|
 |10|Regular Expression Matching|25.5%|Hard|
 |11|Container With Most Water|45.9%|Medium|
