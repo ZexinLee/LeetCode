@@ -45,7 +45,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |11|[Container With Most Water](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0011%20(Medium)Container%20With%20Most%20Water/Sliding%20Windows.md)|45.9%|Medium|
 |12|Integer to Roman|51.7%|Medium|
 |13|[Roman to Integer](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0013%20(Easy)Roman%20to%20Integer/String.md)|53.0%|Easy|
-|14|Longest Common Prefix|33.9%|Easy|
+|14|[Longest Common Prefix](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0014%20(Easy)Longest%20Common%20Prefix/Brute-force.md)|33.9%|Easy|
 |15|3Sum|24.5%|Medium|
 |16|3Sum Closest|45.8%|Medium|
 |17|Letter Combinations of a Phone Number|42.5%|Medium|
