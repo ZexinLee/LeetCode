@@ -80,7 +80,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |46|Permutations|56.6%|Medium|
 |47|Permutations II|41.6%|Medium|
 |48|Rotate Image|49.9%|Medium|
-|49|Group Anagrams|48.4%|Medium|
+|49|[Group Anagrams](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0049%20(Medium)Group%20Anagrams/Hashmap.md)|48.4%|Medium|
 |50|Pow(x, n)|28.4%|Medium|
 |51|N-Queens|40.6%|Hard|
 |52|N-Queens II|53.1%|Hard|
