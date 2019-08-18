@@ -903,7 +903,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |869|Reordered Power of 2|51.3%|Medium|
 |870|Advantage Shuffle|43.1%|Medium|
 |871|Minimum Number of Refueling Stops|29.7%|Hard|
-|872|Leaf-Similar Trees|63.7%|Easy|
+|872|[Leaf-Similar Trees](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0872%20(Easy)Leaf-Similar%20Trees/DFS.md)|63.7%|Easy|
 |873|Length of Longest Fibonacci Subsequence|46.6%|Medium|
 |874|Walking Robot Simulation|32.6%|Easy|
 |875|Koko Eating Bananas|46.6%|Medium|
