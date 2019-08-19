@@ -46,8 +46,8 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |12|Integer to Roman|51.7%|Medium|
 |13|[Roman to Integer](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0013%20(Easy)Roman%20to%20Integer/String.md)|53.0%|Easy|
 |14|[Longest Common Prefix](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0014%20(Easy)Longest%20Common%20Prefix/Brute-force.md)|33.9%|Easy|
-|15|3Sum|24.5%|Medium|
-|16|3Sum Closest|45.8%|Medium|
+|15|[3Sum](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0015%20(Medium)03Sum/Sort%2BBruteForce.md)|24.5%|Medium|
+|16|[3Sum Closest](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0016%20(Medium)03Sum%20Closest/BruteForce%2BBinary%20Search.md)|45.8%|Medium|
 |17|Letter Combinations of a Phone Number|42.5%|Medium|
 |18|4Sum|31.2%|Medium|
 |19|Remove Nth Node From End of List|34.5%|Medium|
