@@ -1181,3 +1181,18 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1147|Longest Chunked Palindrome Decomposition|58.6%|Hard|
 |1148|Article Views I New|67.5%|Easy|
 |1149|Article Views II New|48.3%|Medium|
+|1150|Check If a Number Is Majority Element in a Sorted Array|68.5%|Easy|
+|1151|Minimum Swaps to Group All 1's Together|55.9%|Medium|
+|1152|Analyze User Website Visit Pattern|37.2%|Medium|
+|1153|String Transforms Into Another String|28.2%|Hard|
+|1154|Day of the Year|50.3%|Easy|
+|1155|Number of Dice Rolls With Target Sum|49.8%|Medium|
+|1156|Swap For Longest Repeated Character Substring|46.4%|Medium|
+|1157|Online Majority Element In Subarray|31.2%|Hard|
+|1158|Market Analysis I New|47.2%|Medium|
+|1159|Market Analysis II New|49.4%|Hard|
+|1160|Find Words That Can Be Formed by Characters|72.5%|Easy|
+|1161|Maximum Level Sum of a Binary Tree|73.8%|Medium|
+|1162|As Far from Land as Possible|36.5%|Medium|
+|1163|Last Substring in Lexicographical Order|28.7%|Hard|
+|1164|Product Price at a Given Date New|70.0%|Medium|
