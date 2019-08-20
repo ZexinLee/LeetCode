@@ -928,7 +928,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |894|All Possible Full Binary Trees|71.6%|Medium|
 |895|Maximum Frequency Stack|57.0%|Hard|
 |896|Monotonic Array|55.5%|Easy|
-|897|Increasing Order Search Tree|65.5%|Easy|
+|897|[Increasing Order Search Tree](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0897%20(Easy)Increasing%20Order%20Search%20Tree/In-order%20Traversal.md)|65.5%|Easy|
 |898|Bitwise ORs of Subarrays|35.1%|Medium|
 |899|Orderly Queue|48.3%|Hard|
 |900|RLE Iterator|50.7%|Medium|
@@ -1024,7 +1024,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |990|Satisfiability of Equality Equations|40.7%|Medium|
 |991|Broken Calculator|41.0%|Medium|
 |992|Subarrays with K Different Integers|44.8%|Hard|
-|993|Cousins in Binary Tree|52.2%|Easy|
+|993|[Cousins in Binary Tree](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0993%20(Easy)Cousins%20in%20Binary%20Tree/BFS.md)|52.2%|Easy|
 |994|Rotting Oranges|46.4%|Easy|
 |995|Minimum Number of K Consecutive Bit Flips|48.3%|Hard|
 |996|Number of Squareful Arrays|47.8%|Hard|
