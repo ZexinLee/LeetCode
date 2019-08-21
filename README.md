@@ -1191,8 +1191,8 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1157|Online Majority Element In Subarray|31.2%|Hard|
 |1158|Market Analysis I New|47.2%|Medium|
 |1159|Market Analysis II New|49.4%|Hard|
-|1160|Find Words That Can Be Formed by Characters|72.5%|Easy|
-|1161|Maximum Level Sum of a Binary Tree|73.8%|Medium|
-|1162|As Far from Land as Possible|36.5%|Medium|
+|1160|[Find Words That Can Be Formed by Characters](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1160%20(Easy)Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/hashmap.md)|72.5%|Easy|
+|1161|[Maximum Level Sum of a Binary Tree](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1161%20(Medium)Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/Level-order%20traversal.md)|73.8%|Medium|
+|1162|[As Far from Land as Possible](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1162%20(Medium)As%20Far%20from%20Labnd%20as%20Possible/BFS.md)|36.5%|Medium|
 |1163|Last Substring in Lexicographical Order|28.7%|Hard|
 |1164|Product Price at a Given Date New|70.0%|Medium|
