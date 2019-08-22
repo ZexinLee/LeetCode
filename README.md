@@ -67,7 +67,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |33|Search in Rotated Sorted Array|33.1%|Medium|
 |34|Find First and Last Position of Element in Sorted Array|34.0%|Medium|
 |35|Search Insert Position|41.1%|Easy|
-|36|Valid Sudoku|44.1%|Medium|
+|36|[Valid Sudoku](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0036%20(Medium)Valid%20Sudoku/Array.md)|44.1%|Medium|
 |37|Sudoku Solver|38.1%|Hard|
 |38|Count and Say|41.3%|Easy|
 |39|Combination Sum|49.9%|Medium|
