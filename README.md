@@ -52,12 +52,12 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |18|4Sum|31.2%|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0019%20(Medium)Remove%20Nth%20Node%20From%20End%20of%20List/Two%20pointers.md)|34.5%|Medium|
 |20|Valid Parentheses|37.0%|Easy|
-|21|Merge Two Sorted Lists|48.3%|Easy|
+|21|[Merge Two Sorted Lists](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0021%20(Easy)Merge%20Two%20Sorted%20Lists/Merge.md)|48.3%|Easy|
 |22|Generate Parentheses|56.3%|Medium|
 |23|Merge k Sorted Lists|35.5%|Hard|
 |24|Swap Nodes in Pairs|45.8%|Medium|
 |25|Reverse Nodes in k-Group|37.4%|Hard|
-|26|Remove Duplicates from Sorted Array|41.5%|Easy|
+|26|[Remove Duplicates from Sorted Array](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0026%20(Easy)Remove%20Duplicates%20from%20Sorted%20Array/Two-pointer.md)|41.5%|Easy|
 |27|Remove Element|45.2%|Easy|
 |28|Implement strStr()|32.6%|Easy|
 |29|Divide Two Integers|16.2%|Medium|
