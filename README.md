@@ -1196,3 +1196,11 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1162|[As Far from Land as Possible](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1162%20(Medium)As%20Far%20from%20Labnd%20as%20Possible/BFS.md)|36.5%|Medium|
 |1163|Last Substring in Lexicographical Order|28.7%|Hard|
 |1164|Product Price at a Given Date New|70.0%|Medium|
+|1165|Single-Row Keyboard|86.0%|Easy|
+|1166|Design File System|62.1%|Medium|
+|1167|Minimum Cost to Connect Sticks|53.1%|Medium|
+|1168|Optimize Water Distribution in a Village|39.4%|Hard|
+|1169|Invalid Transactions|19.8%|Easy|
+|1170|Compare Strings by Frequency of the Smallest Character|63.4%|Easy|
+|1171|Remove Zero Sum Consecutive Nodes from Linked List|36.7%|Medium|
+|1172|Dinner Plate Stacks|28.2%|Hard|
