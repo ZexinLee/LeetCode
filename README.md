@@ -25,7 +25,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 
 ​	Begin to add notes for earlier completed questions.
 
-​	Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the category of all LeetCode questions will be built in the README file. **(TODO)**
+​	Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the category of all LeetCode questions will be built in the README file.
 
 ## Category
 
