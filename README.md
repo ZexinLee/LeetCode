@@ -1200,7 +1200,7 @@ All code in Database Part is written by SQL. ![Travis](https://img.shields.io/ba
 |1166|Design File System|62.1%|Medium|
 |1167|Minimum Cost to Connect Sticks|53.1%|Medium|
 |1168|Optimize Water Distribution in a Village|39.4%|Hard|
-|1169|Invalid Transactions|19.8%|Easy|
-|1170|Compare Strings by Frequency of the Smallest Character|63.4%|Easy|
-|1171|Remove Zero Sum Consecutive Nodes from Linked List|36.7%|Medium|
+|1169|[Invalid Transactions](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1169%20(Easy)Invalid%20Transactions/StringArray.md)|19.8%|Easy|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1170%20(Easy)Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/StringArray.md)|63.4%|Easy|
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1171%20(Medium)Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/Linked%20list.md)|36.7%|Medium|
 |1172|Dinner Plate Stacks|28.2%|Hard|
