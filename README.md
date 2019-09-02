@@ -1204,3 +1204,9 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1170|[Compare Strings by Frequency of the Smallest Character](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1170%20(Easy)Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/StringArray.md)|63.4%|Easy|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1171%20(Medium)Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/Linked%20list.md)|36.7%|Medium|
 |1172|Dinner Plate Stacks|28.2%|Hard|
+|1173|Immediate Food Delivery I|78.2%|Easy|
+|1174|Immediate Food Delivery II|37.6%|Medium|
+|1175|[Prime Arrangements](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1175%20(Easy)Prime%20Arrangements/Prime.md)|51.2%|Easy|
+|1176|[Diet Plan Performance](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1176%20(Easy)Diet%20Plan%20Performance/Sliding%20windows.md)|44.8%|Easy|
+|1177|[Can Make Palindrome from Substring](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1177%20(Medium)Can%20Make%20Palindrome%20from%20Subtring/ArrayString.md)|28.9%|Medium|
+|1178|[Number of Valid Words for Each Puzzle](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1178%20(Hard)Number%20of%20Valid%20Words%20for%20Each%20Puzzle/TrieorBitmap.md)|29.4%|Hard|
