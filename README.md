@@ -852,7 +852,7 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |818|Race Car|35.7%|Hard|
 |819|Most Common Word|42.3%|Easy|
 |820|Short Encoding of Words|47.8%|Medium|
-|821|Shortest Distance to a Character|63.9%|Easy|
+|821|[Shortest Distance to a Character](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0821%20(Easy)Shortest%20Distance%20to%20a%20Character/MinArray.md)|63.9%|Easy|
 |822|Card Flipping Game|40.7%|Medium|
 |823|Binary Trees With Factors|33.0%|Medium|
 |824|Goat Latin|58.2%|Easy|
@@ -1109,7 +1109,7 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1075|Project Employees I|56.8%|Easy|
 |1076|Project Employees II|53.3%|Easy|
 |1077|Project Employees III|70.7%|Medium|
-|1078|Occurrences After Bigram|65.6%|Easy|
+|1078|[Occurrences After Bigram](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1078%20(Easy)Occurences%20After%20Bigram/Traverse.md)|65.6%|Easy|
 |1079|Letter Tile Possibilities|75.5%|Medium|
 |1080|Insufficient Nodes in Root to Leaf Paths|43.0%|Medium|
 |1081|Smallest Subsequence of Distinct Characters|43.3%|Medium|
