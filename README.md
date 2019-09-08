@@ -1215,7 +1215,7 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1181|Before and After Puzzle|39.9%|Medium|
 |1182|Shortest Distance to Target Color|45.8%|Medium|
 |1183|Maximum Number of Ones|37.5%|Hard|
-|1184|Distance Between Bus Stops|57.2%|Easy|
-|1185|Day of the Week|65.9%|Easy|
-|1186|Maximum Subarray Sum with One Deletion|25.3%|Medium|
+|1184|[Distance Between Bus Stops](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1184%20(Easy)Distance%20Between%20Bus%20Stops/SimpleArray.md)|57.2%|Easy|
+|1185|[Day of the Week](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1185%20(Easy)Day%20of%20the%20Week/DateCount.md)|65.9%|Easy|
+|1186|[Maximum Subarray Sum with One Deletion](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1186%20(Medium)Maximum%20Subarray%20Sum%20with%20One%20Deletion/ForwardandDP.md)|25.3%|Medium|
 |1187|Make Array Strictly Increasing|29.7%|Hard|
