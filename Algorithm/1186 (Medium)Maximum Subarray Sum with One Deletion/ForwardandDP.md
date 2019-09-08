@@ -20,7 +20,7 @@ To do that efficiently, use the idea of [Kadane's algorithm](https://www.jianshu
 
 - The picture of explanation is shown as below:
 
-  
+  ![Explanation](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1186 (Medium)Maximum Subarray Sum with One Deletion/Explanation.png)
 
 # Better Solution
 
