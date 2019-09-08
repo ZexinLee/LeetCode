@@ -1210,3 +1210,4 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1176|[Diet Plan Performance](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1176%20(Easy)Diet%20Plan%20Performance/Sliding%20windows.md)|44.8%|Easy|
 |1177|[Can Make Palindrome from Substring](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1177%20(Medium)Can%20Make%20Palindrome%20from%20Subtring/ArrayString.md)|28.9%|Medium|
 |1178|[Number of Valid Words for Each Puzzle](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1178%20(Hard)Number%20of%20Valid%20Words%20for%20Each%20Puzzle/TrieorBitmap.md)|29.4%|Hard|
+|1179|*|*|*|
