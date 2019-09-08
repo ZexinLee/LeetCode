@@ -1210,4 +1210,12 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1176|[Diet Plan Performance](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1176%20(Easy)Diet%20Plan%20Performance/Sliding%20windows.md)|44.8%|Easy|
 |1177|[Can Make Palindrome from Substring](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1177%20(Medium)Can%20Make%20Palindrome%20from%20Subtring/ArrayString.md)|28.9%|Medium|
 |1178|[Number of Valid Words for Each Puzzle](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1178%20(Hard)Number%20of%20Valid%20Words%20for%20Each%20Puzzle/TrieorBitmap.md)|29.4%|Hard|
-|1179|*|*|*|
+|1179|Reformat Department Table|68.8%|Easy|
+|1180|Count Substrings with Only One Distinct Letter|79.2%|Easy|
+|1181|Before and After Puzzle|39.9%|Medium|
+|1182|Shortest Distance to Target Color|45.8%|Medium|
+|1183|Maximum Number of Ones|37.5%|Hard|
+|1184|Distance Between Bus Stops|57.2%|Easy|
+|1185|Day of the Week|65.9%|Easy|
+|1186|Maximum Subarray Sum with One Deletion|25.3%|Medium|
+|1187|Make Array Strictly Increasing|29.7%|Hard|
