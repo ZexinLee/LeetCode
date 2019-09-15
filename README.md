@@ -29,7 +29,6 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 
 ## Category
 
-
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0001%20(Easy)Two%20Sum/Note%20Template.md)|44.4%|Easy|
