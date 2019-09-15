@@ -1218,3 +1218,8 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1185|[Day of the Week](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1185%20(Easy)Day%20of%20the%20Week/DateCount.md)|65.9%|Easy|
 |1186|[Maximum Subarray Sum with One Deletion](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1186%20(Medium)Maximum%20Subarray%20Sum%20with%20One%20Deletion/ForwardandDP.md)|25.3%|Medium|
 |1187|Make Array Strictly Increasing|29.7%|Hard|
+|1188|Design Bounded Blocking Queue New|54.7%|Medium|
+|1189|Maximum Number of Balloons|62.8%|Easy|
+|1190|Reverse Substrings Between Each Pair of Parentheses|54.2%|Medium|
+|1191|K-Concatenation Maximum Sum|19.2%|Medium|
+|1192|Critical Connections in a Network|34.0%|Hard|
