@@ -1219,7 +1219,7 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |1186|[Maximum Subarray Sum with One Deletion](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1186%20(Medium)Maximum%20Subarray%20Sum%20with%20One%20Deletion/ForwardandDP.md)|25.3%|Medium|
 |1187|Make Array Strictly Increasing|29.7%|Hard|
 |1188|Design Bounded Blocking Queue New|54.7%|Medium|
-|1189|Maximum Number of Balloons|62.8%|Easy|
-|1190|Reverse Substrings Between Each Pair of Parentheses|54.2%|Medium|
-|1191|K-Concatenation Maximum Sum|19.2%|Medium|
-|1192|Critical Connections in a Network|34.0%|Hard|
+|1189|[Maximum Number of Balloons](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1189%20(Easy)Maximum%20Number%20of%20Ballons/Simple%20count.md)|62.8%|Easy|
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1190%20(Medium)Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/Stack.md)|54.2%|Medium|
+|1191|[K-Concatenation Maximum Sum](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1191%20(Medium)K-Concatenation%20Maximum%20Sum/DP.md)|19.2%|Medium|
+|1192|[Critical Connections in a Network](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/1192%20(Hard)Critical%20Connections%20in%20a%20Network/DFS.md)|34.0%|Hard|
