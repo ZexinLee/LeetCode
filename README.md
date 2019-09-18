@@ -605,7 +605,7 @@ Thanks for the inspiration from @[grandyang](https://github.com/grandyang), the 
 |572|Subtree of Another Tree|42.0%|Easy|
 |573|Squirrel Simulation|54.2%|Medium|
 |574|Winning Candidate|37.2%|Medium|
-|575|Distribute Candies|60.1%|Easy|
+|575|[Distribute Candies](https://github.com/ZexinLee/LeetCode/blob/master/Algorithm/0575%20(Easy)Distribute%20Candies/Hashtable.md)|60.1%|Easy|
 |576|Out of Boundary Paths|32.6%|Medium|
 |577|Employee Bonus|60.6%|Easy|
 |578|Get Highest Answer Rate Question|35.7%|Medium|
