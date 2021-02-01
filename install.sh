@@ -13,6 +13,6 @@
      sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
      git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
      git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-     wget https://github.com/ZexinLi0w0/LeetCode/blob/master/.zshrc
+     wget https://raw.githubusercontent.com/ZexinLi0w0/LeetCode/master/.zshrc
      cp .zshrc /root/.zshrc 
      zsh
