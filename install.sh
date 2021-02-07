@@ -1,6 +1,6 @@
      apt update -y
      apt upgrade -y
-     apt install vim htop tmux git g++ -y
+     apt install vim htop tmux git g++ make -y
      apt install zsh -y
      wget https://github.com/ehang-io/nps/releases/download/v0.26.9/linux_386_server.tar.gz
      tar zvxf linux_386_server.tar.gz
